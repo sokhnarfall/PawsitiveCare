@@ -1,5 +1,5 @@
 SHOW DATABASES;
-USE [yourconnection];
+USE [replace_with_your_connection];
 
 CREATE TABLE IF NOT EXISTS Pet (
   id int not null auto_increment primary key,
